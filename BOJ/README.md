@@ -3,3 +3,4 @@
 - [BOJ 9095 - 1,2,3 더하기](https://alinew.tistory.com/101)
 - [BOJ 18290 - NM과 K(1)](https://alinew.tistory.com/102)
 - [BOJ 1759 - 암호 만들기](https://alinew.tistory.com/103)
+- [BOJ 2529 - 부등호](https://alinew.tistory.com/105)
