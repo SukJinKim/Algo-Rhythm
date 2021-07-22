@@ -6,3 +6,4 @@
 - [BOJ 2529 - 부등호](https://alinew.tistory.com/105)
 - [BOJ 10971 - 외판원 순회 2](https://alinew.tistory.com/106)
 - [BOJ 1463 - 1로 만들기](https://alinew.tistory.com/107)
+- [BOJ 2225 - 합분해](https://alinew.tistory.com/108)
