@@ -7,3 +7,4 @@
 - [BOJ 10971 - 외판원 순회 2](https://alinew.tistory.com/106)
 - [BOJ 1463 - 1로 만들기](https://alinew.tistory.com/107)
 - [BOJ 2225 - 합분해](https://alinew.tistory.com/108)
+- [BOJ 16926 - 배열 돌리기 1](https://alinew.tistory.com/109)
