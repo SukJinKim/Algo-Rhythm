@@ -42,6 +42,6 @@ int main()
         digit--;
     }
     
-    printf("%d", ans);
+    cout << ans << endl;
     return 0;
 }
